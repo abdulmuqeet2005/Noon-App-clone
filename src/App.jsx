@@ -367,7 +367,7 @@ const App = () => {
       </div>
       <br />
       <div>
-        <img src="8.PNG" alt="" />
+      <img src="8.PNG" alt="" />
       </div>
     </>
   )
